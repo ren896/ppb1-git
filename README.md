@@ -1,3 +1,3 @@
-# Belajar Git
+# Belajar Gitpo
 
-Project untuk mempelajari dasar penggunaan Git.
+project untuk belajar dasar penggunaan git
